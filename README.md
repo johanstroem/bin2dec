@@ -7,4 +7,4 @@ Program that convert binary input to decimal.
 
 ## To start:
 
-1. open a terminal in VS Code and write 'node index.js' 
+1. open a terminal in VS Code and write `node index.js`
